@@ -2158,7 +2158,8 @@ blog
 Blog
 blog/error_log
 blog/fckeditor
-blog/wp-content/backup-db/
+blog/
+content/backup-db/
 blog/wp-content/backups/
 blog/wp-login
 blog/wp-login.php
@@ -5974,6 +5975,17 @@ wp
 wp-admin
 wp-admin/
 wp-admin/c99.php
+blog/wp-install
+wordpress/wp-install
+test/wp-install
+wp/wp-install
+new/wp-install
+old/wp-install
+backup/wp-install
+news/wp-install
+blogs/wp-install
+admin/wp-install
+test/wp-install.php
 wp-admin/install.php
 wp-admin/setup-config.php
 wp-app.log
